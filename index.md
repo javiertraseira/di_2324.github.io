@@ -1,10 +1,12 @@
-# Módulo de Desarrollo de Interfaces 25-26 (2º DAM)
+# Módulo de Desarrollo de Interfaces 26-27 (2º DAM)
 
 ## Guía didáctica
 
+![](pdf/Guía_didáctica_DI_2627.pdf)
+
 ----
 
-## Contenido del curso 25-26
+## Contenido del curso 26-27
 
 
 
