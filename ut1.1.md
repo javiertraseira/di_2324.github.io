@@ -21,6 +21,8 @@ Existen otras formas de comunicación entre un software y un usuario:
 
 ## Evolución histórica de las interfaces
 
+![](media/mapa_evolucion_interfaces.png) 
+
 ### Ideas precursoras
 
 #### Concepto de Memex
