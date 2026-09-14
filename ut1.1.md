@@ -358,10 +358,6 @@ No sirve de nada tener un producto bonito si no satisface las necesidades de los
 
     Sin embargo, una interfaz atractiva no garantiza que el usuario comprenda el proceso ni se sienta seguro al realizar operaciones críticas. La UX es la facilidad con la que el usuario puede consultar su saldo, transferir dinero sin errores y sentirse seguro al hacerlo.
 
-
-
-
-
 Dentro de las actividades que se realizan en **UI**, están:
 
 - Diseño de interacción (cómo responde el sistema)
@@ -379,6 +375,3 @@ Dentro de las actividades del **UX** están las siguientes:
 
 ![](media/39e92ffdd33d4de4cf94c8872ec4a0c6.jpeg)
 
-## Lenguajes de programación de interfaces
-
-![](media/languajes-gui1.jpg)
