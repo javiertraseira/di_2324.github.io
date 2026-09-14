@@ -147,7 +147,7 @@ Sus principales características fueron:
 - Aplicaciones como el administrador de archivos, calculadora, calendario o la terminal.
 
 ```note
-La GUIse convierte en el modelo dominante de interaccióncon el ordenador personal.
+La GUI se convierte en el modelo dominante de interacción con el ordenador personal.
 ```
 
 ![](media/620438d5f0d30e5578cb05e40fa8c61e.png)
@@ -183,16 +183,41 @@ En 2001 Apple presenta la interfaz **Aqua** para su Mac OS X, desarrollado en co
 
 #### Hipertexto y navegadores web
 
+En 1989, Tim Berners-Lee propone en el CERN un sistema de información basado en hipertexto.
+En 1990 desarrolla los componentes fundamentales de la Web:
+
+- documentos HTML
+- direcciones URL
+- comunicación HTTP
+- un primer navegador/editor
+
+En 1993, Mosaic contribuye a popularizar la navegación gráfica por la Web.
+
+![](media/b0a51f99bc3595a63b7cb2f644a6f0e9.png)
+
+```note
+La GUI ya no vive únicamente en aplicaciones instaladas: también empieza a construirse dentro del navegador.
+```
+
 #### Evolución de las interfaces web
 
-### Dispositivos móviles
+En 1992, con la aparición de los navegadores, el diseño mediante tablas fue una revolución en cuanto a la organización de los elementos y la experiencia ofrecida a los usuarios. 
+
+Pocos años después, en 1994, se conformó el *World Wide Web Consortium* (W3C) con el fin de desarrollar estándares y recomendaciones web. Aparece **CSS** para presentación y diseño.
+
+A mediados de los noventa, Flash y Javascript dieron lugar a las animaciones con efectos visuales, haciendo posible resolver las limitaciones del HTML. A partir de ese momento, el problema era la larga espera que experimentaban los navegantes cuando cargaban páginas sobrecargadas de complementos.
+
+### Multitáctil / post-WIMP
+
+#### General Magic
 
 Se considera a **General Magic**, la compañía madre de todas las GUI de teléfonos inteligentes modernos. A Marc Porat, que a principios de los 90 trabajaba en Apple, se le ocurrió una idea revolucionaria: la de que era posible crear un dispositivo de comunicación y computación portátil. Con esa idea en mente fundo General Magic, que se adelantó 15 años a la época, y sentó las bases del futuro iPhone.
 
 ![](media/b6899f8cb7832b89f1e5c1ca01a92963.jpeg)
 
-
 ![](media/2853408b4766d37f356bdbe0761bf0a0.jpeg)
+
+#### La información se hace móvil
 
 En el equipo de General Magic, hubo empleados muy exitosos como la directora de tecnología de la Casa Blanca (Megan Smith), el co-creador de Android (Andy Rubin), el fundador de eBay (Pierre Omidyar) o el codiseñador del iPod y iPhone (Tony Fadell).
 
@@ -200,29 +225,15 @@ Con el surgimiento de la World Wide Web, se lanza su primer producto serio, el *
 
 ![](media/a5b272bca100c9ea69e1ecc10501126d.jpeg)
 
-
-### Actualidad de escritorio
-
-Microsoft seguirá adelante con su sistema operativo de ventanas para escritorio, dando a luz a Windows 2000, ME, XP, Vista, 7, 8 y finalmente 10, lanzado a mediados del 2015 y del cual ya hay un sucesor en el mercado: Windows 11.
-
-Apple y su Mac OS X, lanzarían posteriormente también alrededor de 18 versiones, la más reciente es Monterey lanzada a finales del 2021.
-
-![](media/be0b2d89ddcaffd436606850687d9b36.jpeg)
-
-![](media/03b04706ceb0fc139e20c61eb086c1ff.jpeg)
-
- ![](media/f0bd7b6de398c281bede1c1d3370b001.jpeg)
-
-
-### Dispositivos móviles
+#### Interacción multitáctil
 
 A principios del siglo XXI, dos nombres, Apple y Google, entraron oficialmente en la carrera para convertirse en los sistemas operativos mejor calificados, aunque dicha carrera fue iniciado por Apple y su iPhone como luego veremos. No obstante hubo otros competidores como Symbian, Blackberry o Windows Phone que no lograron tener éxito.
 
 ![](media/4643f8eb4bf7951352f4b141349c752c.jpeg)
 
-### Dispositivos móviles Apple
+#### Dispositivos móviles Apple
 
-En 2007 surge el iPhone y más tarde en con la introducción del iPad, Apple popularizó el estilo de interacción *post-WIMP* para pantallas multitáctiles.
+En 2007 surge el **iPhone** y más tarde en con la introducción del iPad, Apple popularizó el estilo de interacción **post-WIMP** para pantallas multitáctiles.
 
 Con el primer iPhone Steve Job presentó una interfaz de usuario basada en tecnología de pantalla táctil; fue el primer móvil en no tener teclado físico, cambiando la interacción humana sobre productos digitales que había hasta entonces..
 
@@ -230,97 +241,84 @@ Con el primer iPhone Steve Job presentó una interfaz de usuario basada en tecno
 
 ![](media/6fd74b389dda63ff3dcb83456499ceea.jpeg)
 
-
 La interfaz de usuario del iPhone tenía un estilo *esqueuomórfico* completo. Ello significa que las funciones de la interfaz de usuario se diseñaron para parecerse a elementos de la vida real.
 
 Se agregaron degradados, sombras paralelas y bordes a los botones para que parezcan 3D y se pueda hacer clic en ellos.
 
 ![](media/cf228ef17b5b434876990a908af0ca09.jpeg)
 
-Desde 2007 dicho estilo ha sido sustituido por un nuevo estilo denominado diseño plano (*flat design*) que muy acertadamente introdujo la competencia del iPhone, los SO basados en su competidor Android de Google.
+Desde 2007 dicho estilo ha sido sustituido por un nuevo estilo denominado diseño plano (*flat design*) que acertadamente introdujo la competencia del iPhone, los SO basados en su competidor Android de Google.
 
 ![](media/06b64f860688b0733a006d982f6e1f9e.jpeg) 
 
 
 ### Dispositivos móviles Android
 
-Android fue lanzado en 2007 y su primera versión en septiembre de 2008. En un principio, Android fue un sistema operativo pensado para usar con teclado y cursor poder navegar entre las aplicaciones. Desde su comienzo, Android ha sido altamente personalizable. Poco después, antes del lanzamiento del primer teléfono Android, esta filosofía cambió para convertirse en eminentemente táctil, y poder competir contra el iPhone, presentado un año antes. Desde entonces, Android ha pasado por múltiples lanzamientos y una madurez que tampoco tiene que envidiar al SO móvil de Apple.
+Android fue lanzado en 2007 y su primera versión en septiembre de 2008. Desde su comienzo, Android ha sido altamente personalizable. Poco después, antes del lanzamiento del primer teléfono Android, esta filosofía cambió para convertirse en eminentemente táctil, y poder competir contra el iPhone, presentado un año antes. Desde entonces, Android ha pasado por múltiples lanzamientos y una madurez que tampoco tiene que envidiar al SO móvil de Apple.
 
 
 ![](media/c97eea2b707b7f6cb961da737f2c092b.jpeg)
 
-![](media/3b4e05789f2eb45b73c1e7a7159616e8.jpeg)
+Un hito del GUI de Android fue **Material Design**, anunciado en 2014, junto con el lanzamiento de la versión 5.0 de Android Lollipop. Desde entonces se ha ido implementando en cada una de sus aplicaciones para crear un sistema que ofrezca la misma experiencia de usuario en todas las plataformas y dispositivos. Matías Duarte, diseñador de interfaces y vicepresidente de diseño de Google, es uno de los impulsores de este sistema de diseño que ha transformado la IU y UX del entorno web y móvil en la actualidad. En 2021 Material design ha evolucionado a **Material You**.
 
-Un hito del GUI de Android fue Material Design, anunciado en 2014, junto con el lanzamiento de la versión 5.0 de Android Lollipop. Desde entonces se ha ido implementando en cada una de sus aplicaciones para crear un sistema que ofrezca la misma experiencia de usuario en todas las plataformas y dispositivos. Matías Duarte, diseñador de interfaces y vicepresidente de diseño de Google, es uno de los impulsores de este sistema de diseño que ha transformado la IU y UX del entorno web y móvil en la actualidad. En 2021 Material design ha evolucionado a **Material You**.
+![](media/3b4e05789f2eb45b73c1e7a7159616e8.jpeg)
 
 ![](media/2e6250b9e6301f055fab207655aee92b.png)
 
-Android es considerado como uno de los modelos de negocio más exitosos, pues su desarrollo estratégico contempla los factores que más se tienen en cuenta dentro de las herramientas y metodologías desarrollados por expertos en negocios. No obstante, los problemas de monopolio y privacidad comienzan a hacer mella en su marca.
 
-El núcleo de Android se desarrolla de forma abierta y se puede por tanto acceder tanto a su código fuente. No obstante, los servicios de Google siguen siendo propietarios.
+#### Escritorios clásicos integrados
 
-![](media/cf86b04bc352dd92587d849e2fc55999.jpeg) 
+**Microsoft** ha continuado evolucionando Windows como sistema operativo de escritorio, manteniendo el paradigma. Windows 11 representa su generación actual, con un sistema de integración parcial con teléfonos Android e iOS.
+
+**Apple** ha evolucionado macOS como sistema operativo de escritorio, integrándolo progresivamente con el resto de su ecosistema. Actualmente, Mac, iPhone y iPad comparten servicios, aplicaciones y formas de interacción, facilitando la **continuidad** entre dispositivos.
+
+
+![](media/be0b2d89ddcaffd436606850687d9b36.jpeg)
+
+![](media/03b04706ceb0fc139e20c61eb086c1ff.jpeg)
+
+ ![](media/f0bd7b6de398c281bede1c1d3370b001.png)
 
 ### Interfaces naturales
 
 Las interfaces naturales comunicarse con el usuario usando para ello medios como la voz, los gestos o la mirada.  El lanzamiento del iPhone en 2007, con su interfaz multitáctil, y la introducción de Kinect o Nintendo Wii que permitía la interacción mediante gestos, marcaron hitos importantes en el desarrollo de estas interfaces.
 
-En la actualidad existen desarrollos en realidad aumentada (AR) y la realidad virtual (VR), donde los usuarios interactúan con entornos digitales mediante movimientos corporales y comandos de voz. Los asistentes virtuales como Siri, Alexa y Google Assistant han llevado el reconocimiento de voz a millones de personas y la comunicación con las nuevas IA generativas también es posible.
+En la actualidad existen desarrollos en realidad aumentada (**AR**) y  realidad virtual (**VR**), donde los usuarios interactúan con entornos digitales mediante movimientos corporales y comandos de voz. Los asistentes virtuales y de OA han llevado el **reconocimiento de voz** a millones de personas.
+
+```note
+La interacción se acerca progresivamente a las capacidades naturales del usuario.
+```
 
 ![](media/natural_assistants.png) 
 
-```note
-La realidad aumentada y virtual permiten a los usuarios interactuar con entornos digitales mediante movimientos corporales y comandos de voz, transformando la experiencia de usuario.
-```
+### Interfaces espaciales + IA
 
-```note
-En el futuro estas tecnologías convergen hacia interfaces híbridas sin pantallas, donde la interacción se basa en la voz, gestos y contexto espacial, creando nuevas reglas de diseño.
-```
+La realidad aumentada, virtual y mixta permiten situar contenido digital en un entorno tridimensional mediante **interfaces espaciales**.
 
+La interacción puede combinar:
+- Mirada
+-  Manos y gestos
+-  Voz
+-  Posición y espacio
 
-## Evolución histórica de la web
+Gafas como Meta Quest o las Apple Vision Pro.
 
-### Hipertexto y WWW
+![](media/interfaces_espaciales.png) 
 
-En 1989 se estandarizan los protocolos de conexión a Internet mediante TCP/IP. **Tim Berners Lee**, un ingeniero del CERN propone un sistema de hipertexto para estructurar la información de Internet, de manera que sea más usable para los científicos.
+Las **interfaces basadas en IA** permiten que el usuario no tenga que conocer necesariamente qué opción o comando debe utilizar.
 
-En 1990 crea un visualizador que constituye el nacimiento de la World Wide Web, con enlaces interconectados (hasta el momento no se podía acceder de un ordenador a otro mediante enlaces, ni existían buscadores, ni se podían integrar imágenes), que se estandariza en 1993 como Hypertext Markup Language (*HTML*).
+En lugar de seleccionar una función concreta:
+*Usuario → menú → opción → comando*
+puede expresar directamente su intención:
+*Usuario → “quiero conseguir esto” → sistema interpreta la intención*
 
-![](media/b0a51f99bc3595a63b7cb2f644a6f0e9.png)
+La interacción puede combinar:
+- Texto 
+- Voz
+- Visión
+- Interfaz gráfica
 
-En 1991, un estudiante de 22 años de la Universidad de Illinois llamado Marc Andreesen, quien más tarde sería fundador de Netscape, crea el primer navegador gráfico, llamado Mosaic.
-
-
-### Evolución del diseño web
-
-En 1992, con la aparición de los navegadores, el diseño mediante tablas fue una revolución en cuanto a la organización de los elementos y la experiencia ofrecida a los usuarios. En esa época no había estilos CSS para poner varios elementos en la misma altura.
-
-Pocos años después, en 1994, se conformó el *World Wide Web Consortium* (W3C) con el fin de desarrollar estándares y recomendaciones web.
-
-A mediados de los noventa, Flash y Javascript dieron lugar a las animaciones con efectos visuales, haciendo posible resolver las limitaciones del HTML. A partir de ese momento, el problema era la larga espera que experimentaban los navegantes cuando cargaban estas páginas tan sumamente animadas.
-
-En 2008 los smartphones comienzan a pedir diseño web propio y en el año 2012 se presenta el diseño web adaptable (**responsive web design**).
-
-Desde aquel momento, se presenta la información al usuario de una manera operativa, bajo el lema el contenido de calidad por encima de todo.
-
-![](media/83de8c7f2b49d2349c41ba5fab178434.jpeg)
-
-### Evolución del diseño web
-
-![](media/evol_web.png)
-
-### Frontend vs backend
-
-- **Frontend**:
-
-    Es la parte visible de una web, con la que el usuario interactúa directamente. Incluye todo lo que aparece en el navegador: botones, menús, formularios, animaciones… Se construye principalmente con HTML, CSS y JavaScript, y hoy en día con frameworks modernos como React, Angular o Vue.
-
-- **Backend**: 
-
-    Es la parte 'oculta', que gestiona la lógica de negocio, el acceso a bases de datos y la comunicación con servidores. Está desarrollado con lenguajes y tecnologías como Java, Python, PHP, Node.js o bases de datos como MySQL y MongoDB. El backend procesa la información y la envía al frontend para mostrarla al usuario.
-
-
-![](media/backvsfront.png)
+![](media/interfaz_ia.png) 
 
 
 ## UI y UX
